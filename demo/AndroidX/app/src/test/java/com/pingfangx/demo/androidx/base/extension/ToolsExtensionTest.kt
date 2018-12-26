@@ -5,7 +5,7 @@ import java.security.MessageDigest
 
 /**
  *
- * @author 刘汝寿
+ * @author pingfangx
  * @date 2018/10/9
  */
 class ToolsExtensionTest {

@@ -6,7 +6,7 @@ import com.pingfangx.demo.androidx.base.extension.getSupportedAbi
 /**
  * Abi 与微架构
  *
- * @author 刘汝寿
+ * @author pingfangx
  * @date 2018/10/8
  */
 class AbiAndMicroarchitectureActivity : BaseTipsActivity() {
